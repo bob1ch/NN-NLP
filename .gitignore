@@ -2,4 +2,3 @@ venv
 models
 *.tsv
 dataset
-*.pkl
