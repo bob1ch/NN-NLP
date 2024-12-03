@@ -3,3 +3,7 @@ models
 *.tsv
 dataset
 *.pkl
+annotations
+train2017
+*.csv
+vectors
