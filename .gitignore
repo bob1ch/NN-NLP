@@ -7,3 +7,5 @@ annotations
 train2017
 *.csv
 vectors
+*.hdf5
+*.pth
