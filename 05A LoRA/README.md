@@ -110,5 +110,3 @@ Each prompt was generated twice — with and without LoRA — to compare results
 * LoRA offers an efficient way to personalize diffusion models with minimal GPU resources.
 
 ---
-
-Would you like me to make this README **formatted for GitHub** (with emojis, headers, and code blocks aligned nicely for markdown preview)? I can polish it for copy-paste into your repo.
