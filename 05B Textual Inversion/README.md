@@ -1,4 +1,3 @@
-````markdown
 # Textual Inversion Fine-Tuning with Stable Diffusion v1.5
 
 ## Description
